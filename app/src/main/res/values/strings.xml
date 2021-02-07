@@ -1,0 +1,8 @@
+<resources>
+    <string name="google_map_api_key">AIzaSyBYRJSzxp4X4eSecqzOzHcipJqFjiH2DoQ</string>
+    <string name="app_name">Ecommerce</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
