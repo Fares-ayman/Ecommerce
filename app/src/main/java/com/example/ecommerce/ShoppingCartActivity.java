@@ -139,8 +139,8 @@ public class ShoppingCartActivity extends AppCompatActivity {
                             {
                                 etmessage+="* "+pro_items.get(j).name+"\n";
                             }
-                            semail="faresayman2244@gmail.com";
-                            spassword="faresaymanfady00";
+                            semail="*************@gmail.com";
+                            spassword="*************";
 
                             Properties properties=new Properties();
                             properties.put("mail.smtp.auth","true");
